@@ -12,8 +12,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bishwakiranpoudel&theme=gotham&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bishwakiranpoudel&theme=gotham&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=bishwakiranpoudel&icon=0&color=12)](https://visitcount.itsvg.in)
