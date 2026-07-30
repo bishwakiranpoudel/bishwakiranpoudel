@@ -1,5 +1,5 @@
 # 🌟 Bishwa Kiran Poudel  
-**AI | ML | Data Science**  
+**Full Stack | AI | ML | Data Science**  
 **BSc in Computer Science and Information Technology (CSIT) @ Tribhuwan University**  
 **Master in Applied Science and Engineering: Computer Science @ VUB**
 
